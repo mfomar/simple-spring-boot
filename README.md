@@ -1,1 +1,1 @@
-# simple-spring-boot
+# simple-spring-boot-crud
